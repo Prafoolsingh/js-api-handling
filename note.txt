@@ -1,0 +1,2 @@
+response.json() is a method provided by the fetch() API that parses the response body as JSON.
+ It takes the raw JSON string received from the server and converts it back into a JavaScript object, making it easier to work with in code.
